@@ -17,3 +17,4 @@ install qt
 * apt-get -y install lib32z1
 * apt-get -y install libc6-dev-i386
 * apt-get -y install g++-multilib
+* apt-get -y install cmake
